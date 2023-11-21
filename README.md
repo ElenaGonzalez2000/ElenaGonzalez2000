@@ -13,14 +13,16 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 💻 You can look at my projects [Frontend Mentor!][link].
+[link]: https://www.frontendmentor.io/profile/ElenaGonzalez2000
+
+
 -->
 ___
 
 - 🌱 I’m currently learning **Javascript and Angular**
 - 📫 How to reach me **elena.ig000@gmail.com**
-- 💻 You can look at my projects [Frontend Mentor!][link].
 
-[link]: https://www.frontendmentor.io/profile/ElenaGonzalez2000
 <!--
 <h3 align="left">Connect with me:</h3>
 <p align="left">
