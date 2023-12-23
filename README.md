@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 -->
 ___
 
-- 🌱 I’m currently learning **Javascript and Angular**
+- 🌱 I’m currently learning **Javascript and React**
 - 📫 How to reach me **elena.ig000@gmail.com**
 
 <!--
