@@ -14,16 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-
-
-- 💻 You can look at my projects [Frontend Mentor!][link].
-[link]: https://www.frontendmentor.io/profile/ElenaGonzalez2000 -->
+ -->
+___
 
 
 - 🌱 I’m currently learning **Javascript and React**
 - 📫 How to reach me **elena.ig000@gmail.com**
+- 💻 You can look at my projects [Frontend Mentor!](https://www.frontendmentor.io/profile/ElenaGonzalez2000).
 
-___
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/elenagonzalez2000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elenagonzalez2000" height="30" width="30" /></a>
