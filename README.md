@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ___
 
 
-- 🌱 I’m currently learning **Javascript and React**
+- 🌱 I’m currently learning **React and Tailwind**
 - 📫 How to reach me **elena.ig000@gmail.com**
 - 💻 You can look at my projects [Frontend Mentor!](https://www.frontendmentor.io/profile/ElenaGonzalez2000).
 
