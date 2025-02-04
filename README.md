@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 ___
 
 
-- 🌱 I’m currently learning **React and Tailwind**
-- 📫 How to reach me **elena.ig000@gmail.com**
+- 🌱 I’m currently learning **C#, React and Tailwind**
+- 📫 How to reach me **elena.eig22@gmail.com**
 - 💻 You can look at my projects [Frontend Mentor!](https://www.frontendmentor.io/profile/ElenaGonzalez2000).
 
 <h3 align="left">Connect with me:</h3>
