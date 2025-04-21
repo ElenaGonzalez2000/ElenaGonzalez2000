@@ -1,34 +1,36 @@
-### Hi 👋 I'm Elena
+<h1 align="center">✨ Hola, soy Elena ✨</h1>
+<p align="center">Estudiante de programación de sistemas · Apasionada por el diseño · Aprendiendo y creando todos los días</p>
 
-<!--
-**ElenaGonzalez2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💻 Actualmente trabajando en proyectos académicos y personales de desarrollo web
+- 🌱 Aprendiendo **C#**, **React**, **Tailwind**, y reforzando fundamentos de **POO**, **UML** y **bases de datos**
+- 🎨 Me interesa el diseño UI/UX, la escritura de código limpio y todo lo que me ayude a construir experiencias útiles y bonitas
+- 📚 Creo en el aprendizaje constante y me gusta documentar lo que estudio en mis [notas de estudio](https://github.com/ElenaGonzalez2000/Learning-notes.git)
 
- -->
-___
+---
 
+### 💼 Proyectos destacados
 
-- 🌱 I’m currently learning **C#, React and Tailwind**
-- 📫 How to reach me **elena.eig22@gmail.com**
-- 💻 You can look at my projects [Frontend Mentor!](https://www.frontendmentor.io/profile/ElenaGonzalez2000).
+- 🛠️ [Notas de Programación](https://github.com/ElenaGonzalez2000?tab=repositories&q=notas) – Mi cuaderno digital con apuntes de JS, C#, SQL, Git y más  
+- 🏋️ [Sistema de Gimnasio](https://github.com/ElenaGonzalez2000/Sistema-Gimnasio-Fitness-Pro-) – Proyecto académico con diseño orientado a objetos y diagramas UML  
+- 🚆 [Rediseño App Trenes Argentinos](https://www.figma.com/design/T15smblLhPvOw2EYkKwl7r/Redise%C3%B1o---App-Trenes-Argentinos?node-id=0-1&t=KbzPsBxUu18r3awP-1) – Propuesta de UX/UI y prototipo interactivo en Figma  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/elenagonzalez2000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elenagonzalez2000" height="30" width="30" /></a>
-</p>
+---
 
-<!--
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elenagonzalez2000&show_icons=true&theme=tokyonight)
+### 📫 Contacto
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elenagonzalez2000&layout=compact)](https://github.com/elenagonzalez2000/github-readme-stats)
--->
+- 💌 elena.eig00@gmail.com  
+- 💼 [LinkedIn](https://linkedin.com/in/elenagonzalez2000)  
+- 🧪 [Frontend Mentor](https://www.frontendmentor.io/profile/ElenaGonzalez2000)  
+
+---
+
+![Elena's GitHub stats](https://github-readme-stats.vercel.app/api?username=elenagonzalez2000&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elenagonzalez2000&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+<p align="center">✨ Gracias por visitar mi perfil ✨</p>
