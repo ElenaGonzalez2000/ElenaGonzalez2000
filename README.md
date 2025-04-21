@@ -14,7 +14,7 @@
 
 ### 💼 Proyectos destacados
 
-- 🛠️ [Notas de Programación](https://github.com/ElenaGonzalez2000?tab=repositories&q=notas) – Mi cuaderno digital con apuntes de JS, C#, SQL, Git y más  
+- 🛠️ [Notas de Programación](https://github.com/ElenaGonzalez2000/Learning-notes/blob/main/README.md) – Mi cuaderno digital con apuntes de JS, C#, SQL, Git y más  
 - 🏋️ [Sistema de Gimnasio](https://github.com/ElenaGonzalez2000/Sistema-Gimnasio-Fitness-Pro-) – Proyecto académico con diseño orientado a objetos y diagramas UML  
 - 🚆 [Rediseño App Trenes Argentinos](https://www.figma.com/design/T15smblLhPvOw2EYkKwl7r/Redise%C3%B1o---App-Trenes-Argentinos?node-id=0-1&t=KbzPsBxUu18r3awP-1) – Propuesta de UX/UI y prototipo interactivo en Figma  
 
