@@ -16,7 +16,7 @@
 
 - 🛠️ [Notas de Programación](https://github.com/ElenaGonzalez2000/Learning-notes/blob/main/README.md) – Mi cuaderno digital con apuntes de JS, C#, SQL, Git y más  
 - 🏋️ [Sistema de Gimnasio](https://github.com/ElenaGonzalez2000/Sistema-Gimnasio-Fitness-Pro-) – Proyecto académico con diseño orientado a objetos y diagramas UML  
-- 🚆 [Rediseño App Trenes Argentinos](https://www.figma.com/design/T15smblLhPvOw2EYkKwl7r/Redise%C3%B1o---App-Trenes-Argentinos?node-id=0-1&t=KbzPsBxUu18r3awP-1) – Propuesta de UX/UI y prototipo interactivo en Figma  
+- 🚆 [Rediseño App Trenes Argentinos](https://www.figma.com/proto/T15smblLhPvOw2EYkKwl7r/Redise%C3%B1o---App-Trenes-Argentinos?node-id=6-3&p=f&t=wrBJKNQPTD1qxInq-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=6%3A3) – Propuesta de UX/UI y prototipo interactivo en Figma  
 
 ---
 
